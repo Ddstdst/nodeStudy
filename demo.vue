@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     11111111
-    {{btn}}
+    {{btn}}https://www.jianshu.com/p/94b0a9dac860
     <input type="button" value="button" @click="change">
   </div>
 </template>
